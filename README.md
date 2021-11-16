@@ -6,8 +6,8 @@ I am a front-end developer, at the beginning of my professional career, and ever
 
 Here you can learn about my stack, see my pet-projects and find my contacts to offer me a job)
 
-- 😎 I’m currently working on my React stack
-- 🌱 I’m currently learning PWA
+- 😎 I’m currently working for Yandex
+- 🌱 I’m currently learning Node JS
 - 💼 Current experience: ~ 1 year
 - 📫 How to reach me: [email](mailto:ivanov.danilaf@gmail.com) & [telegram](https://t.me/freak1ngawesome)
 - ⚡ Fun fact: dark theme fan 😍

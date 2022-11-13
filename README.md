@@ -8,7 +8,7 @@ Here you can learn about my stack, see my pet-projects and find my contacts to o
 
 - 😎 I’m currently working for Yandex
 - 🌱 I’m currently learning Node JS
-- 💼 Current experience: ~ 1 year
+- 💼 Current experience: ~ 2 year
 - 📫 How to reach me: [email](mailto:ivanov.danilaf@gmail.com) & [telegram](https://t.me/freak1ngawesome)
 - ⚡ Fun fact: dark theme fan 😍
 
